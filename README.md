@@ -2,6 +2,9 @@
 
 ![image](https://github.com/Harshkumar62367/aelf-dapp/assets/72465090/b5f1af2c-5a4b-496b-9153-c496af7fb2fd)
 
+
+Detailed ReadMe to start the dapp on your local machine can be found in `capstone_aelf/StackUp_DAO`
+
 <hr>
 
 ## AElf DevContainer (BETA)
