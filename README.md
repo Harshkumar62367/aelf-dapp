@@ -1,4 +1,10 @@
-# AElf DevContainer (BETA)
+# Aelf Workshop - Bengaluru
+
+![image](https://github.com/Harshkumar62367/aelf-dapp/assets/72465090/b5f1af2c-5a4b-496b-9153-c496af7fb2fd)
+
+<hr>
+
+## AElf DevContainer (BETA)
 
 To use this devcontainer, click "Use this template" > "Create a new repository".
 
